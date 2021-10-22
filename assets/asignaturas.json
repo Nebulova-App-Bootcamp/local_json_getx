@@ -1,0 +1,16 @@
+{
+    "asignaturas": [
+        {
+            "titulo": "Mates",
+            "descripcion": "comooo van las mates",
+            "aprobado": true,
+            "numero": 100
+        },
+        {
+            "titulo": "fisica",
+            "descripcion": "comooo van las mates",
+            "aprobado": true,
+            "numero": 100
+        }
+    ]
+}
