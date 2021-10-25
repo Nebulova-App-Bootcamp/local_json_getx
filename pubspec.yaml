@@ -33,6 +33,7 @@ dependencies:
   build_runner: ^2.0.4
 
 dev_dependencies:
+  http: ^0.13.4
   flutter_test:
     sdk: flutter
 
@@ -49,8 +50,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    -  assets/user.json
-    -  assets/asignaturas.json
+    -  assets/users.json
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

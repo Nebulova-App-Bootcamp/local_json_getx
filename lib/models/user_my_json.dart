@@ -5,9 +5,8 @@ part 'user_my_json.g.dart';
 
 @JsonSerializable(anyMap: true, explicitToJson: true)
 class UserMyJson {
-  UserMyJson(this.users);
-
-  List<User> users;
+  UserMyJson(this.data);
+  List<User> data;
 
   factory UserMyJson.fromJson(Map<String, dynamic> json) =>
       _$UserMyJsonFromJson(json);
